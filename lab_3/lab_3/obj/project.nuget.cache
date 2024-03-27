@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "u1iLODrJosSWr9L//1flH2dI8NDvte0u7uOhewCE/d/NLMXc27Y0y/NDTcdHy4q5s5Dh6m+J5ILDM9P9Z4vEgQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Asus\\Desktop\\uni\\lab_3\\lab_3\\lab_3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Asus\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
